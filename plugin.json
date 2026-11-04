@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "printags",
+  "version": "1.0.0",
+  "description": "Order printed PVC, NFC, MIFARE and wooden cards: on the Printags online shop for a few cards, or with the Printags API and MCP server for a business or integrator.",
+  "author": {
+    "name": "Printags",
+    "email": "contact@printags.com",
+    "url": "https://www.printags.com"
+  },
+  "homepage": "https://www.printags.com",
+  "repository": "https://github.com/printags/agent-skills",
+  "keywords": ["printags", "cards", "pvc", "nfc", "mifare", "printing", "mcp", "api"]
+}
