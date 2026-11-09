@@ -8,6 +8,10 @@
     "printags-api": {
       "type": "streamable-http",
       "url": "https://mcp.printags.com"
+    },
+    "printags-docs": {
+      "type": "streamable-http",
+      "url": "https://www.printags.com/mcp/docs"
     }
   }
 }
